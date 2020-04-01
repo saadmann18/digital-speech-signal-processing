@@ -1,0 +1,92 @@
+# PDF files - exercise sheets and solutions
+*.pdf
+
+# ZIP files - compressed exercise materials
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Audio files (if generated during exercises)
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+
+# HTML files (Jupyter notebook exports)
+*.html
+
+# MATLAB files (if present)
+*.mex*
+*.asv
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Output and results directories
+results/
+output/
+figures/
+plots/
+
+# Ex04 explanation directory
+Ex04 DFT and Computational Effort/explanaiton_ex_4_3/
+
+# Ex09 solution HTML files
+Ex09 Noise Reduction/ex9_python_solution/ex9_solution-scratch.html
+
+# Ex11 adaptive filter sim5 directory
+Ex11 Adaptive Filters/python_adaptive_filter_sims/sim5/
